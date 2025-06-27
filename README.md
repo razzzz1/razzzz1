@@ -31,4 +31,4 @@ i like to provide solutions to meet the evoving needs around us
 </div>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=razzzz1)](https://github.com/anuraghazra/github-readme-stats)
+
